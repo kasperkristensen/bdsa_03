@@ -1,0 +1,17 @@
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/Assignment03.deps.json
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/Assignment03.runtimeconfig.json
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/Assignment03.runtimeconfig.dev.json
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/Assignment03.dll
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/ref/Assignment03.dll
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/Assignment03.pdb
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.csproj.AssemblyReference.cache
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.AssemblyInfoInputs.cache
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.AssemblyInfo.cs
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.csproj.CoreCompileInputs.cache
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.dll
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/ref/Assignment03.dll
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.pdb
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.genruntimeconfig.cache
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/bin/Debug/net5.0/CsvHelper.dll
+/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/obj/Debug/net5.0/Assignment03.csproj.CopyComplete

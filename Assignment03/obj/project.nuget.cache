@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtyefBXz9w0t79+iC/g/3uGif0jBq5a/WPzbgjRK1tHM7Oxf7R7bFIWiiVZFv478z5J0j1tXaJC1SPS0Bcz+Og==",
+  "success": true,
+  "projectFilePath": "/Users/kasperf.kristensen/school_work/BDSA/as03/Assignment03/Assignment03.csproj",
+  "expectedPackageFiles": [
+    "/Users/kasperf.kristensen/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
